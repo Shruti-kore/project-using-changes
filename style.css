@@ -31,6 +31,14 @@ body{
     background: #000;
     
 }
+.container img{
+     width:350px;
+    height:350px;
+    align-items: center;
+    border-radius: 50%;
+    background: #000;
+    
+}
 .container p{
     background:pink;
     margin-left: 20px;
