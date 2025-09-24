@@ -31,3 +31,8 @@ body{
     background: #000;
     
 }
+.container p{
+    background:pink;
+    margin-left: 20px;
+    
+}
